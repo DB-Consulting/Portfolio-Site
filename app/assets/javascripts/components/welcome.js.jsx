@@ -100,7 +100,6 @@ var Welcome = React.createClass({
       {/*Experience*/}
       <div className="col-md-4 pro-experience nopadding">
          <div className="padding-50 wow fadeInRight">
-         <div className="dividewhite3"></div>
 
                 <h3 className="font-accident-two-normal uppercase font-color-invert">Experience</h3>
                 <div className="dividewhite2"></div>
