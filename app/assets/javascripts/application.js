@@ -14,4 +14,5 @@
 //= require deven.js
 //= require github.js
 //= require turbolinks
+//= require components
 //= require_tree .
