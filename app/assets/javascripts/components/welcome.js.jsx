@@ -161,6 +161,8 @@ var Welcome = React.createClass({
           </div>
         </div>
 
+        </div>
+        
       </div>
     );
   }
