@@ -75,8 +75,6 @@ var Welcome = React.createClass({
          </div>
       </div>
 
-      <div class="row nopadding">
-
       {/*Personal Info */}
       <div className="col-md-4 personal nopadding">
          <div className="padding-50 wow fadeInRight">
@@ -97,7 +95,7 @@ var Welcome = React.createClass({
           </div>
       </div>
 
-      {/*<div className="row nopadding"></div>*/}
+      <div className="row nopadding">
 
       {/*Experience*/}
       <div className="col-md-4 pro-experience nopadding">
@@ -162,7 +160,7 @@ var Welcome = React.createClass({
         </div>
 
         </div>
-        
+
       </div>
     );
   }
