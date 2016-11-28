@@ -10,7 +10,6 @@ var Welcome = React.createClass({
   render: function() {
     return(
       <div>
-
       {/*Intro with Summary */}
       <div className="col-md-8 nopadding skin">
          <div className="padding-50 wow fadeInDown">
